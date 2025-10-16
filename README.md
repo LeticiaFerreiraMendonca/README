@@ -1,5 +1,5 @@
 ### Olá! 👋  
-Sou **Leticia Mendonça**, estudante de **Ciência da Computação** na **USCS**, atualmente no **3º semestre**.  
+Sou **Leticia Ferreira**, estudante de **Ciência da Computação** na **USCS**, atualmente no **3º semestre**.  
 
 Tenho interesse em **desenvolvimento de software** e atualmente participo de um projeto com a **Startup Reserva Center**, colaborando no desenvolvimento do aplicativo **Agenda do Pet** 🐾.  
 Faço parte do **time de pesquisa e desenvolvimento de IA** do app, com foco em aplicar soluções inteligentes para melhorar a experiência dos usuários.
